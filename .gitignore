@@ -2,6 +2,7 @@ Archive/
 Documentation/
 *.twb
 Workout Data Dash Complete.twb - Shortcut.lnk
+*.docx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
