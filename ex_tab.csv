@@ -1,0 +1,32 @@
+exercise_id,exercise_name,muscle_id
+1,"One Arm Dumbbell Row",5
+2,"Wide Grip Lat Pull Down",4
+3,"Seated Cable Rows",5
+4,"Alternating Dumbbell Hammer Curls",7
+5,"Dumbbell Concentration Curl",7
+6,"Barbell Bench Press",1
+7,"Incline Barbell Bench Press",1
+8,"Chest Press Machine",1
+9,"Incline Dumbbell Fly",1
+10,"Butterfly Machine",1
+11,"Lying Dumbbell Triceps Extension",8
+12,"Seated Dumbbell Triceps Extension",8
+13,"Cable Triceps Pushdown",8
+14,"Barbell Squat",11
+15,"Leg Press",11
+16,"Leg Extensions",11
+17,"Stiff Legged Barbell Deadlift",12
+18,"Seated Leg Curl",12
+19,"Seated Calf Raise Machine",16
+20,"Arnold Press",2
+21,"Lateral Dumbbell Raises",2
+22,"Seated Shoulder Press Machine",2
+23,"Dumbbell Upright Row",3
+24,"Dumbbell Shrugs",3
+25,"Barbell Deadlifts",12
+26,"Preacher Curl Machine",7
+27,"Seated Dumbbell Bicep Curls",7
+28,"Incline Dumbbell Bench Press",1
+29,"Dumbbell Bench Press",1
+30,"Dumbbell Lunges",11
+31,"Dumbbell Hammer Curls",7

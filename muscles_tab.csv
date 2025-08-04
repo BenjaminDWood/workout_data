@@ -1,0 +1,18 @@
+muscle_id,muscle_name,muscle_group
+1,chest,chest
+2,shoulders,shoulders
+3,traps,shoulders
+4,lats,back
+5,"middle back",back
+6,"lower back",back
+7,biceps,arms
+8,triceps,arms
+9,forearms,arms
+10,abs,abs
+11,quadriceps,legs
+12,hamstrings,legs
+13,glutes,legs
+14,abductors,thighs
+15,adductors,thighs
+16,calves,legs
+17,cardio,cardio

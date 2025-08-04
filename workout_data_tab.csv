@@ -1,0 +1,1081 @@
+log_ID,Date,Workout name,exercise_id,set_index,Set,Weight,Reps,Distance,Duration,Measurement unit
+100,31/03/2025,Back and biceps,1,1,1,10,12,NULL,NULL,kg
+101,31/03/2025,Back and biceps,1,1,2,10,12,NULL,NULL,kg
+102,31/03/2025,Back and biceps,1,1,3,10,12,NULL,NULL,kg
+103,31/03/2025,Back and biceps,2,2,1,41,12,NULL,NULL,kg
+104,31/03/2025,Back and biceps,2,2,2,41,12,NULL,NULL,kg
+105,31/03/2025,Back and biceps,2,2,3,41,10,NULL,NULL,kg
+106,31/03/2025,Back and biceps,3,3,1,45,10,NULL,NULL,kg
+107,31/03/2025,Back and biceps,3,3,2,40,8,NULL,NULL,kg
+108,31/03/2025,Back and biceps,3,3,3,36,8,NULL,NULL,kg
+109,31/03/2025,Back and biceps,4,4,1,7.5,12,NULL,NULL,kg
+110,31/03/2025,Back and biceps,4,4,2,7.5,11,NULL,NULL,kg
+111,31/03/2025,Back and biceps,4,4,3,7.5,7,NULL,NULL,kg
+112,31/03/2025,Back and biceps,5,5,1,10,3,NULL,NULL,kg
+113,31/03/2025,Back and biceps,5,5,2,7.5,6,NULL,NULL,kg
+114,31/03/2025,Back and biceps,5,5,3,7.5,6,NULL,NULL,kg
+115,01/04/2025,Chest & triceps,6,6,1,0,10,NULL,NULL,kg
+116,01/04/2025,Chest & triceps,6,6,2,10,10,NULL,NULL,kg
+117,01/04/2025,Chest & triceps,6,6,3,20,10,NULL,NULL,kg
+118,01/04/2025,Chest & triceps,6,6,4,20,10,NULL,NULL,kg
+119,01/04/2025,Chest & triceps,7,7,1,20,8,NULL,NULL,kg
+120,01/04/2025,Chest & triceps,7,7,2,20,8,NULL,NULL,kg
+121,01/04/2025,Chest & triceps,7,7,3,20,6,NULL,NULL,kg
+122,01/04/2025,Chest & triceps,8,8,1,27,15,NULL,NULL,kg
+123,01/04/2025,Chest & triceps,8,8,2,32,15,NULL,NULL,kg
+124,01/04/2025,Chest & triceps,8,8,3,32,15,NULL,NULL,kg
+125,01/04/2025,Chest & triceps,9,9,1,7.5,12,NULL,NULL,kg
+126,01/04/2025,Chest & triceps,9,9,2,7.5,12,NULL,NULL,kg
+127,01/04/2025,Chest & triceps,9,9,3,7.5,12,NULL,NULL,kg
+128,01/04/2025,Chest & triceps,10,10,1,30,20,NULL,NULL,kg
+129,01/04/2025,Chest & triceps,10,10,2,30,15,NULL,NULL,kg
+130,01/04/2025,Chest & triceps,10,10,3,30,12,NULL,NULL,kg
+131,01/04/2025,Chest & triceps,11,11,1,7.5,12,NULL,NULL,kg
+132,01/04/2025,Chest & triceps,11,11,2,7.5,8,NULL,NULL,kg
+133,01/04/2025,Chest & triceps,11,11,3,5,12,NULL,NULL,kg
+134,01/04/2025,Chest & triceps,12,12,1,10,12,NULL,NULL,kg
+135,01/04/2025,Chest & triceps,12,12,2,10,11,NULL,NULL,kg
+136,01/04/2025,Chest & triceps,12,12,3,10,11,NULL,NULL,kg
+137,01/04/2025,Chest & triceps,13,13,1,23,8,NULL,NULL,kg
+138,01/04/2025,Chest & triceps,13,13,2,18,7,NULL,NULL,kg
+139,01/04/2025,Chest & triceps,13,13,3,14,8,NULL,NULL,kg
+140,03/04/2025,Legs,14,14,1,20,10,NULL,NULL,kg
+141,03/04/2025,Legs,14,14,2,30,10,NULL,NULL,kg
+142,03/04/2025,Legs,14,14,3,30,9,NULL,NULL,kg
+143,03/04/2025,Legs,14,14,4,30,7,NULL,NULL,kg
+144,03/04/2025,Legs,15,15,1,32,20,NULL,NULL,kg
+145,03/04/2025,Legs,15,15,2,39,20,NULL,NULL,kg
+146,03/04/2025,Legs,15,15,3,39,20,NULL,NULL,kg
+147,03/04/2025,Legs,16,16,1,40,1,NULL,NULL,kg
+148,03/04/2025,Legs,16,16,2,35,5,NULL,NULL,kg
+149,03/04/2025,Legs,16,16,3,30,4,NULL,NULL,kg
+150,03/04/2025,Legs,16,16,4,25,3,NULL,NULL,kg
+151,03/04/2025,Legs,16,16,5,20,3,NULL,NULL,kg
+152,03/04/2025,Legs,16,16,6,15,7,NULL,NULL,kg
+153,03/04/2025,Legs,16,16,7,10,8,NULL,NULL,kg
+154,03/04/2025,Legs,17,17,1,40,8,NULL,NULL,kg
+155,03/04/2025,Legs,17,17,2,40,10,NULL,NULL,kg
+156,03/04/2025,Legs,17,17,3,40,8,NULL,NULL,kg
+157,03/04/2025,Legs,18,18,1,36,9,NULL,NULL,kg
+158,03/04/2025,Legs,18,18,2,32,4,NULL,NULL,kg
+159,03/04/2025,Legs,18,18,3,27,3,NULL,NULL,kg
+160,03/04/2025,Legs,18,18,4,23,4,NULL,NULL,kg
+161,03/04/2025,Legs,18,18,5,18,3,NULL,NULL,kg
+162,03/04/2025,Legs,18,18,6,9,12,NULL,NULL,kg
+163,03/04/2025,Legs,19,19,1,20,15,NULL,NULL,kg
+164,03/04/2025,Legs,19,19,2,20,12,NULL,NULL,kg
+165,03/04/2025,Legs,19,19,3,20,12,NULL,NULL,kg
+166,03/04/2025,Legs,19,20,1,10,47,NULL,NULL,kg
+167,04/04/2025,"Shoulders, traps, forearms",20,21,1,12.5,10,NULL,NULL,kg
+168,04/04/2025,"Shoulders, traps, forearms",20,21,2,12.5,10,NULL,NULL,kg
+169,04/04/2025,"Shoulders, traps, forearms",20,21,3,12.5,7,NULL,NULL,kg
+170,04/04/2025,"Shoulders, traps, forearms",20,22,1,10,8,NULL,NULL,kg
+171,04/04/2025,"Shoulders, traps, forearms",20,22,2,7.5,9,NULL,NULL,kg
+172,04/04/2025,"Shoulders, traps, forearms",20,22,3,7.5,10,NULL,NULL,kg
+173,04/04/2025,"Shoulders, traps, forearms",21,23,1,5,8,NULL,NULL,kg
+174,04/04/2025,"Shoulders, traps, forearms",21,23,2,5,10,NULL,NULL,kg
+175,04/04/2025,"Shoulders, traps, forearms",21,23,3,5,8,NULL,NULL,kg
+176,04/04/2025,"Shoulders, traps, forearms",22,24,1,30,8,NULL,NULL,kg
+177,04/04/2025,"Shoulders, traps, forearms",22,24,2,20,7,NULL,NULL,kg
+178,04/04/2025,"Shoulders, traps, forearms",22,24,3,10,26,NULL,NULL,kg
+179,04/04/2025,"Shoulders, traps, forearms",23,25,1,7.5,12,NULL,NULL,kg
+180,04/04/2025,"Shoulders, traps, forearms",23,25,2,7.5,12,NULL,NULL,kg
+181,04/04/2025,"Shoulders, traps, forearms",23,25,3,7.5,12,NULL,NULL,kg
+182,04/04/2025,"Shoulders, traps, forearms",24,26,1,20,13,NULL,NULL,kg
+183,04/04/2025,"Shoulders, traps, forearms",24,26,2,12.5,12,NULL,NULL,kg
+184,04/04/2025,"Shoulders, traps, forearms",24,26,3,10,17,NULL,NULL,kg
+185,04/04/2025,"Shoulders, traps, forearms",24,26,4,7.5,15,NULL,NULL,kg
+186,08/04/2025,Back and biceps,25,27,1,20,5,NULL,NULL,kg
+187,08/04/2025,Back and biceps,25,27,2,60,5,NULL,NULL,kg
+188,08/04/2025,Back and biceps,25,27,3,80,5,NULL,NULL,kg
+189,08/04/2025,Back and biceps,2,28,1,45,8,NULL,NULL,kg
+190,08/04/2025,Back and biceps,2,28,2,45,6,NULL,NULL,kg
+191,08/04/2025,Back and biceps,2,28,3,41,6,NULL,NULL,kg
+192,08/04/2025,Back and biceps,1,29,1,12.5,12,NULL,NULL,kg
+193,08/04/2025,Back and biceps,1,29,2,12.5,10,NULL,NULL,kg
+194,08/04/2025,Back and biceps,1,29,3,12.5,10,NULL,NULL,kg
+195,08/04/2025,Back and biceps,2,30,1,36,8,NULL,NULL,kg
+196,08/04/2025,Back and biceps,2,30,2,32,10,NULL,NULL,kg
+197,08/04/2025,Back and biceps,2,30,3,32,10,NULL,NULL,kg
+198,08/04/2025,Back and biceps,3,31,1,41,12,NULL,NULL,kg
+199,08/04/2025,Back and biceps,3,31,2,36,8,NULL,NULL,kg
+200,08/04/2025,Back and biceps,3,31,3,32,9,NULL,NULL,kg
+201,08/04/2025,Back and biceps,3,31,4,27,16,NULL,NULL,kg
+202,08/04/2025,Back and biceps,26,32,1,18,3,NULL,NULL,kg
+203,08/04/2025,Back and biceps,26,32,2,14,6,NULL,NULL,kg
+204,08/04/2025,Back and biceps,26,32,3,14,5,NULL,NULL,kg
+205,08/04/2025,Back and biceps,5,33,1,7.5,10,NULL,NULL,kg
+206,08/04/2025,Back and biceps,5,33,2,7.5,7,NULL,NULL,kg
+207,08/04/2025,Back and biceps,5,33,3,7.5,4,NULL,NULL,kg
+208,08/04/2025,Back and biceps,27,34,1,10,2,NULL,NULL,kg
+209,08/04/2025,Back and biceps,27,34,2,9,2,NULL,NULL,kg
+210,08/04/2025,Back and biceps,27,34,3,8,3,NULL,NULL,kg
+211,08/04/2025,Back and biceps,27,34,4,7,3,NULL,NULL,kg
+212,08/04/2025,Back and biceps,27,34,5,6,4,NULL,NULL,kg
+213,08/04/2025,Back and biceps,27,34,6,4,10,NULL,NULL,kg
+214,09/04/2025,Chest & triceps,6,35,1,15,6,NULL,NULL,kg
+215,09/04/2025,Chest & triceps,6,35,2,25,7,NULL,NULL,kg
+216,09/04/2025,Chest & triceps,6,35,3,25,6,NULL,NULL,kg
+217,09/04/2025,Chest & triceps,6,35,4,25,6,NULL,NULL,kg
+218,09/04/2025,Chest & triceps,28,36,1,20,12,NULL,NULL,kg
+219,09/04/2025,Chest & triceps,28,36,2,20,11,NULL,NULL,kg
+220,09/04/2025,Chest & triceps,28,36,3,20,10,NULL,NULL,kg
+221,09/04/2025,Chest & triceps,8,37,1,32,15,NULL,NULL,kg
+222,09/04/2025,Chest & triceps,8,37,2,36,15,NULL,NULL,kg
+223,09/04/2025,Chest & triceps,8,37,3,36,14,NULL,NULL,kg
+224,09/04/2025,Chest & triceps,10,38,1,30,12,NULL,NULL,kg
+225,09/04/2025,Chest & triceps,10,38,2,30,12,NULL,NULL,kg
+226,09/04/2025,Chest & triceps,10,38,3,30,13,NULL,NULL,kg
+227,09/04/2025,Chest & triceps,29,39,1,25,6,NULL,NULL,kg
+228,09/04/2025,Chest & triceps,29,39,2,20,10,NULL,NULL,kg
+229,09/04/2025,Chest & triceps,29,39,3,15,15,NULL,NULL,kg
+230,09/04/2025,Chest & triceps,29,39,4,10,25,NULL,NULL,kg
+231,09/04/2025,Chest & triceps,11,40,1,10,12,NULL,NULL,kg
+232,09/04/2025,Chest & triceps,11,40,2,15,12,NULL,NULL,kg
+233,09/04/2025,Chest & triceps,11,40,3,15,7,NULL,NULL,kg
+234,09/04/2025,Chest & triceps,12,41,1,12.5,10,NULL,NULL,kg
+235,09/04/2025,Chest & triceps,12,41,2,12.5,8,NULL,NULL,kg
+236,09/04/2025,Chest & triceps,12,41,3,12.5,8,NULL,NULL,kg
+237,09/04/2025,Chest & triceps,13,42,1,32,16,NULL,NULL,kg
+238,09/04/2025,Chest & triceps,13,42,2,27,7,NULL,NULL,kg
+239,09/04/2025,Chest & triceps,13,42,3,23,9,NULL,NULL,kg
+240,09/04/2025,Chest & triceps,13,42,4,18,8,NULL,NULL,kg
+241,09/04/2025,Chest & triceps,13,42,5,14,12,NULL,NULL,kg
+242,10/04/2025,Legs,14,43,1,20,10,NULL,NULL,kg
+243,10/04/2025,Legs,14,43,2,30,10,NULL,NULL,kg
+244,10/04/2025,Legs,14,43,3,30,10,NULL,NULL,kg
+245,10/04/2025,Legs,14,43,4,30,10,NULL,NULL,kg
+246,10/04/2025,Legs,15,44,1,45,20,NULL,NULL,kg
+247,10/04/2025,Legs,15,44,2,45,20,NULL,NULL,kg
+248,10/04/2025,Legs,15,44,3,45,20,NULL,NULL,kg
+249,10/04/2025,Legs,30,45,1,0,9,NULL,NULL,kg
+250,10/04/2025,Legs,30,45,2,10,5,NULL,NULL,kg
+251,10/04/2025,Legs,30,45,3,10,5,NULL,NULL,kg
+252,10/04/2025,Legs,16,46,1,40,7,NULL,NULL,kg
+253,10/04/2025,Legs,16,46,2,35,4,NULL,NULL,kg
+254,10/04/2025,Legs,16,46,3,30,5,NULL,NULL,kg
+255,10/04/2025,Legs,16,46,4,25,5,NULL,NULL,kg
+256,10/04/2025,Legs,16,46,5,20,6,NULL,NULL,kg
+257,10/04/2025,Legs,16,46,6,15,5,NULL,NULL,kg
+258,10/04/2025,Legs,16,46,7,10,9,NULL,NULL,kg
+259,10/04/2025,Legs,17,47,1,40,8,NULL,NULL,kg
+260,10/04/2025,Legs,17,47,2,40,10,NULL,NULL,kg
+261,10/04/2025,Legs,17,47,3,40,8,NULL,NULL,kg
+262,10/04/2025,Legs,18,48,1,36,10,NULL,NULL,kg
+263,10/04/2025,Legs,18,48,2,32,6,NULL,NULL,kg
+264,10/04/2025,Legs,18,48,3,27,8,NULL,NULL,kg
+265,10/04/2025,Legs,18,48,4,23,10,NULL,NULL,kg
+266,10/04/2025,Legs,18,48,5,18,10,NULL,NULL,kg
+267,10/04/2025,Legs,18,48,6,9,16,NULL,NULL,kg
+268,10/04/2025,Legs,19,49,1,30,15,NULL,NULL,kg
+269,10/04/2025,Legs,19,49,2,30,10,NULL,NULL,kg
+270,10/04/2025,Legs,19,49,3,20,10,NULL,NULL,kg
+271,10/04/2025,Legs,19,50,1,39,20,NULL,NULL,kg
+272,10/04/2025,Legs,19,50,2,32,13,NULL,NULL,kg
+273,10/04/2025,Legs,19,50,3,25,12,NULL,NULL,kg
+274,10/04/2025,Legs,19,50,4,18,20,NULL,NULL,kg
+275,12/04/2025,"Shoulders, traps, forearms",20,51,1,25,10,NULL,NULL,kg
+276,12/04/2025,"Shoulders, traps, forearms",20,51,2,25,10,NULL,NULL,kg
+277,12/04/2025,"Shoulders, traps, forearms",20,51,3,25,10,NULL,NULL,kg
+278,12/04/2025,"Shoulders, traps, forearms",20,52,1,15,12,NULL,NULL,kg
+279,12/04/2025,"Shoulders, traps, forearms",20,52,2,15,12,NULL,NULL,kg
+280,12/04/2025,"Shoulders, traps, forearms",20,52,3,15,12,NULL,NULL,kg
+281,12/04/2025,"Shoulders, traps, forearms",21,53,1,10,10,NULL,NULL,kg
+282,12/04/2025,"Shoulders, traps, forearms",21,53,2,10,10,NULL,NULL,kg
+283,12/04/2025,"Shoulders, traps, forearms",21,53,3,10,10,NULL,NULL,kg
+284,12/04/2025,"Shoulders, traps, forearms",22,54,1,41,6,NULL,NULL,kg
+285,12/04/2025,"Shoulders, traps, forearms",22,54,2,36,2,NULL,NULL,kg
+286,12/04/2025,"Shoulders, traps, forearms",22,54,3,32,3,NULL,NULL,kg
+287,12/04/2025,"Shoulders, traps, forearms",22,54,4,27,3,NULL,NULL,kg
+288,12/04/2025,"Shoulders, traps, forearms",22,54,5,23,5,NULL,NULL,kg
+289,12/04/2025,"Shoulders, traps, forearms",22,54,6,18,8,NULL,NULL,kg
+290,12/04/2025,"Shoulders, traps, forearms",22,54,7,14,8,NULL,NULL,kg
+291,12/04/2025,"Shoulders, traps, forearms",23,55,1,20,12,NULL,NULL,kg
+292,12/04/2025,"Shoulders, traps, forearms",23,55,2,20,12,NULL,NULL,kg
+293,12/04/2025,"Shoulders, traps, forearms",23,55,3,20,10,NULL,NULL,kg
+294,12/04/2025,"Shoulders, traps, forearms",24,56,1,50,9,NULL,NULL,kg
+295,12/04/2025,"Shoulders, traps, forearms",24,56,2,40,8,NULL,NULL,kg
+296,12/04/2025,"Shoulders, traps, forearms",24,56,3,30,10,NULL,NULL,kg
+297,12/04/2025,"Shoulders, traps, forearms",24,56,4,25,12,NULL,NULL,kg
+298,12/04/2025,"Shoulders, traps, forearms",24,56,5,20,15,NULL,NULL,kg
+299,14/04/2025,Back and biceps,25,57,1,40,5,NULL,NULL,kg
+300,14/04/2025,Back and biceps,25,57,2,80,5,NULL,NULL,kg
+301,14/04/2025,Back and biceps,25,57,3,80,5,NULL,NULL,kg
+302,14/04/2025,Back and biceps,2,58,1,41,10,NULL,NULL,kg
+303,14/04/2025,Back and biceps,2,58,2,41,8,NULL,NULL,kg
+304,14/04/2025,Back and biceps,2,58,3,41,7,NULL,NULL,kg
+305,14/04/2025,Back and biceps,1,59,1,12.5,12,NULL,NULL,kg
+306,14/04/2025,Back and biceps,1,59,2,12.5,12,NULL,NULL,kg
+307,14/04/2025,Back and biceps,1,59,3,12.5,10,NULL,NULL,kg
+308,14/04/2025,Back and biceps,2,60,1,32,12,NULL,NULL,kg
+309,14/04/2025,Back and biceps,2,60,2,32,12,NULL,NULL,kg
+310,14/04/2025,Back and biceps,2,60,3,32,12,NULL,NULL,kg
+311,14/04/2025,Back and biceps,3,61,1,45,12,NULL,NULL,kg
+312,14/04/2025,Back and biceps,3,61,2,41,6,NULL,NULL,kg
+313,14/04/2025,Back and biceps,3,61,3,36,7,NULL,NULL,kg
+314,14/04/2025,Back and biceps,3,61,4,32,12,NULL,NULL,kg
+315,14/04/2025,Back and biceps,3,61,5,27,25,NULL,NULL,kg
+316,14/04/2025,Back and biceps,26,62,1,14,9,NULL,NULL,kg
+317,14/04/2025,Back and biceps,26,62,2,9,10,NULL,NULL,kg
+318,14/04/2025,Back and biceps,26,62,3,9,12,NULL,NULL,kg
+319,14/04/2025,Back and biceps,5,63,1,7,9,NULL,NULL,kg
+320,14/04/2025,Back and biceps,5,63,2,6,10,NULL,NULL,kg
+321,14/04/2025,Back and biceps,5,63,3,5,12,NULL,NULL,kg
+322,14/04/2025,Back and biceps,27,64,1,10,2,NULL,NULL,kg
+323,14/04/2025,Back and biceps,27,64,2,9,1,NULL,NULL,kg
+324,14/04/2025,Back and biceps,27,64,3,8,2,NULL,NULL,kg
+325,14/04/2025,Back and biceps,27,64,4,7,2,NULL,NULL,kg
+326,14/04/2025,Back and biceps,27,64,5,6,4,NULL,NULL,kg
+327,14/04/2025,Back and biceps,27,64,6,5,7,NULL,NULL,kg
+328,14/04/2025,Back and biceps,27,64,7,4,17,NULL,NULL,kg
+329,15/04/2025,Chest & triceps,6,65,1,25,5,NULL,NULL,kg
+330,15/04/2025,Chest & triceps,6,65,2,25,5,NULL,NULL,kg
+331,15/04/2025,Chest & triceps,6,65,3,25,5,NULL,NULL,kg
+332,15/04/2025,Chest & triceps,28,66,1,20,12,NULL,NULL,kg
+333,15/04/2025,Chest & triceps,28,66,2,20,12,NULL,NULL,kg
+334,15/04/2025,Chest & triceps,28,66,3,20,12,NULL,NULL,kg
+335,15/04/2025,Chest & triceps,8,67,1,41,20,NULL,NULL,kg
+336,15/04/2025,Chest & triceps,8,67,2,45,10,NULL,NULL,kg
+337,15/04/2025,Chest & triceps,8,67,3,45,9,NULL,NULL,kg
+338,15/04/2025,Chest & triceps,10,68,1,30,15,NULL,NULL,kg
+339,15/04/2025,Chest & triceps,10,68,2,30,15,NULL,NULL,kg
+340,15/04/2025,Chest & triceps,10,68,3,30,15,NULL,NULL,kg
+341,15/04/2025,Chest & triceps,29,69,1,25,15,NULL,NULL,kg
+342,15/04/2025,Chest & triceps,29,69,2,20,10,NULL,NULL,kg
+343,15/04/2025,Chest & triceps,29,69,3,15,23,NULL,NULL,kg
+344,15/04/2025,Chest & triceps,11,70,1,15,12,NULL,NULL,kg
+345,15/04/2025,Chest & triceps,11,70,2,15,12,NULL,NULL,kg
+346,15/04/2025,Chest & triceps,11,70,3,15,9,NULL,NULL,kg
+347,15/04/2025,Chest & triceps,12,71,1,12.5,11,NULL,NULL,kg
+348,15/04/2025,Chest & triceps,12,71,2,12.5,12,NULL,NULL,kg
+349,15/04/2025,Chest & triceps,12,71,3,12.5,11,NULL,NULL,kg
+350,15/04/2025,Chest & triceps,13,72,1,36,13,NULL,NULL,kg
+351,15/04/2025,Chest & triceps,13,72,2,32,7,NULL,NULL,kg
+352,15/04/2025,Chest & triceps,13,72,3,27,7,NULL,NULL,kg
+353,15/04/2025,Chest & triceps,13,72,4,23,12,NULL,NULL,kg
+354,15/04/2025,Chest & triceps,13,72,5,18,15,NULL,NULL,kg
+355,17/04/2025,Legs,14,73,1,20,8,NULL,NULL,kg
+356,17/04/2025,Legs,14,73,2,40,6,NULL,NULL,kg
+357,17/04/2025,Legs,14,73,3,40,10,NULL,NULL,kg
+358,17/04/2025,Legs,14,73,4,40,7,NULL,NULL,kg
+359,17/04/2025,Legs,15,74,1,52,15,NULL,NULL,kg
+360,17/04/2025,Legs,15,74,2,52,17,NULL,NULL,kg
+361,17/04/2025,Legs,15,74,3,52,20,NULL,NULL,kg
+362,21/04/2025,"Shoulders, traps, forearms",20,75,1,25,6,NULL,NULL,kg
+363,21/04/2025,"Shoulders, traps, forearms",20,75,2,30,9,NULL,NULL,kg
+364,21/04/2025,"Shoulders, traps, forearms",20,75,3,30,8,NULL,NULL,kg
+365,21/04/2025,"Shoulders, traps, forearms",20,75,4,30,6,NULL,NULL,kg
+366,21/04/2025,"Shoulders, traps, forearms",20,76,1,20,12,NULL,NULL,kg
+367,21/04/2025,"Shoulders, traps, forearms",20,76,2,20,12,NULL,NULL,kg
+368,21/04/2025,"Shoulders, traps, forearms",20,76,3,20,10,NULL,NULL,kg
+369,21/04/2025,"Shoulders, traps, forearms",21,77,1,10,12,NULL,NULL,kg
+370,21/04/2025,"Shoulders, traps, forearms",21,77,2,10,10,NULL,NULL,kg
+371,21/04/2025,"Shoulders, traps, forearms",21,77,3,10,8,NULL,NULL,kg
+372,21/04/2025,"Shoulders, traps, forearms",22,78,1,41,7,NULL,NULL,kg
+373,21/04/2025,"Shoulders, traps, forearms",22,78,2,32,2,NULL,NULL,kg
+374,21/04/2025,"Shoulders, traps, forearms",22,78,3,27,4,NULL,NULL,kg
+375,21/04/2025,"Shoulders, traps, forearms",22,78,4,23,5,NULL,NULL,kg
+376,21/04/2025,"Shoulders, traps, forearms",22,78,5,18,4,NULL,NULL,kg
+377,21/04/2025,"Shoulders, traps, forearms",22,78,6,14,8,NULL,NULL,kg
+378,21/04/2025,"Shoulders, traps, forearms",23,79,1,20,12,NULL,NULL,kg
+379,21/04/2025,"Shoulders, traps, forearms",23,79,2,20,12,NULL,NULL,kg
+380,21/04/2025,"Shoulders, traps, forearms",23,79,3,20,12,NULL,NULL,kg
+381,21/04/2025,"Shoulders, traps, forearms",24,80,1,50,13,NULL,NULL,kg
+382,21/04/2025,"Shoulders, traps, forearms",24,80,2,40,8,NULL,NULL,kg
+383,21/04/2025,"Shoulders, traps, forearms",24,80,3,40,4,NULL,NULL,kg
+384,22/04/2025,Back and biceps,25,81,1,40,5,NULL,NULL,kg
+385,22/04/2025,Back and biceps,25,81,2,80,5,NULL,NULL,kg
+386,22/04/2025,Back and biceps,25,81,3,80,5,NULL,NULL,kg
+387,22/04/2025,Back and biceps,2,82,1,41,10,NULL,NULL,kg
+388,22/04/2025,Back and biceps,2,82,2,41,10,NULL,NULL,kg
+389,22/04/2025,Back and biceps,2,82,3,41,10,NULL,NULL,kg
+390,22/04/2025,Back and biceps,1,83,1,12.5,12,NULL,NULL,kg
+391,22/04/2025,Back and biceps,1,83,2,12.5,12,NULL,NULL,kg
+392,22/04/2025,Back and biceps,1,83,3,12.5,12,NULL,NULL,kg
+393,22/04/2025,Back and biceps,2,84,1,36,10,NULL,NULL,kg
+394,22/04/2025,Back and biceps,2,84,2,36,10,NULL,NULL,kg
+395,22/04/2025,Back and biceps,2,84,3,36,12,NULL,NULL,kg
+396,22/04/2025,Back and biceps,3,85,1,50,7,NULL,NULL,kg
+397,22/04/2025,Back and biceps,3,85,2,45,5,NULL,NULL,kg
+398,22/04/2025,Back and biceps,3,85,3,41,7,NULL,NULL,kg
+399,22/04/2025,Back and biceps,3,85,4,36,10,NULL,NULL,kg
+400,22/04/2025,Back and biceps,3,85,5,32,11,NULL,NULL,kg
+401,22/04/2025,Back and biceps,3,85,6,27,15,NULL,NULL,kg
+402,22/04/2025,Back and biceps,26,86,1,9,10,NULL,NULL,kg
+403,22/04/2025,Back and biceps,26,86,2,9,12,NULL,NULL,kg
+404,22/04/2025,Back and biceps,26,86,3,9,11,NULL,NULL,kg
+405,22/04/2025,Back and biceps,5,87,1,6,10,NULL,NULL,kg
+406,22/04/2025,Back and biceps,5,87,2,6,8,NULL,NULL,kg
+407,22/04/2025,Back and biceps,5,87,3,6,9,NULL,NULL,kg
+408,22/04/2025,Back and biceps,27,88,1,10,2,NULL,NULL,kg
+409,22/04/2025,Back and biceps,27,88,2,9,2,NULL,NULL,kg
+410,22/04/2025,Back and biceps,27,88,3,8,2,NULL,NULL,kg
+411,22/04/2025,Back and biceps,27,88,4,7,3,NULL,NULL,kg
+412,22/04/2025,Back and biceps,27,88,5,6,4,NULL,NULL,kg
+413,22/04/2025,Back and biceps,27,88,6,5,6,NULL,NULL,kg
+414,22/04/2025,Back and biceps,27,88,7,4,12,NULL,NULL,kg
+415,24/04/2025,Chest & triceps,6,89,1,25,10,NULL,NULL,kg
+416,24/04/2025,Chest & triceps,6,89,2,30,10,NULL,NULL,kg
+417,24/04/2025,Chest & triceps,6,89,3,30,8,NULL,NULL,kg
+418,24/04/2025,Chest & triceps,28,90,1,25,12,NULL,NULL,kg
+419,24/04/2025,Chest & triceps,28,90,2,25,12,NULL,NULL,kg
+420,24/04/2025,Chest & triceps,28,90,3,25,12,NULL,NULL,kg
+421,24/04/2025,Chest & triceps,8,91,1,45,15,NULL,NULL,kg
+422,24/04/2025,Chest & triceps,8,91,2,45,10,NULL,NULL,kg
+423,24/04/2025,Chest & triceps,8,91,3,45,8,NULL,NULL,kg
+424,24/04/2025,Chest & triceps,10,92,1,45,8,NULL,NULL,kg
+425,24/04/2025,Chest & triceps,10,92,2,40,7,NULL,NULL,kg
+426,24/04/2025,Chest & triceps,10,92,3,35,13,NULL,NULL,kg
+427,24/04/2025,Chest & triceps,10,92,4,30,12,NULL,NULL,kg
+428,24/04/2025,Chest & triceps,10,92,5,25,13,NULL,NULL,kg
+429,24/04/2025,Chest & triceps,29,93,1,20,12,NULL,NULL,kg
+430,24/04/2025,Chest & triceps,29,93,2,20,12,NULL,NULL,kg
+431,24/04/2025,Chest & triceps,29,93,3,20,15,NULL,NULL,kg
+432,24/04/2025,Chest & triceps,11,94,1,15,12,NULL,NULL,kg
+433,24/04/2025,Chest & triceps,11,94,2,15,12,NULL,NULL,kg
+434,24/04/2025,Chest & triceps,11,94,3,15,9,NULL,NULL,kg
+435,24/04/2025,Chest & triceps,12,95,1,12.5,12,NULL,NULL,kg
+436,24/04/2025,Chest & triceps,12,95,2,12.5,12,NULL,NULL,kg
+437,24/04/2025,Chest & triceps,12,95,3,12.5,12,NULL,NULL,kg
+438,24/04/2025,Chest & triceps,13,96,1,41,11,NULL,NULL,kg
+439,24/04/2025,Chest & triceps,13,96,2,36,4,NULL,NULL,kg
+440,24/04/2025,Chest & triceps,13,96,3,32,6,NULL,NULL,kg
+441,24/04/2025,Chest & triceps,13,96,4,27,9,NULL,NULL,kg
+442,24/04/2025,Chest & triceps,13,96,5,23,17,NULL,NULL,kg
+443,24/04/2025,Chest & triceps,13,96,6,18,12,NULL,NULL,kg
+444,25/04/2025,"Shoulders, traps, forearms",20,97,1,20,10,NULL,NULL,kg
+445,25/04/2025,"Shoulders, traps, forearms",20,97,2,30,10,NULL,NULL,kg
+446,25/04/2025,"Shoulders, traps, forearms",20,97,3,30,10,NULL,NULL,kg
+447,25/04/2025,"Shoulders, traps, forearms",20,97,4,30,6,NULL,NULL,kg
+448,25/04/2025,"Shoulders, traps, forearms",20,98,1,20,12,NULL,NULL,kg
+449,25/04/2025,"Shoulders, traps, forearms",20,98,2,20,12,NULL,NULL,kg
+450,25/04/2025,"Shoulders, traps, forearms",20,98,3,20,12,NULL,NULL,kg
+451,25/04/2025,"Shoulders, traps, forearms",21,99,1,10,12,NULL,NULL,kg
+452,25/04/2025,"Shoulders, traps, forearms",21,99,2,10,10,NULL,NULL,kg
+453,25/04/2025,"Shoulders, traps, forearms",21,99,3,10,10,NULL,NULL,kg
+454,25/04/2025,"Shoulders, traps, forearms",22,100,1,41,8,NULL,NULL,kg
+455,25/04/2025,"Shoulders, traps, forearms",22,100,2,36,3,NULL,NULL,kg
+456,25/04/2025,"Shoulders, traps, forearms",22,100,3,32,3,NULL,NULL,kg
+457,25/04/2025,"Shoulders, traps, forearms",22,100,4,27,7,NULL,NULL,kg
+458,25/04/2025,"Shoulders, traps, forearms",22,100,5,23,3,NULL,NULL,kg
+459,25/04/2025,"Shoulders, traps, forearms",22,100,6,18,5,NULL,NULL,kg
+460,25/04/2025,"Shoulders, traps, forearms",22,100,7,14,9,NULL,NULL,kg
+461,25/04/2025,"Shoulders, traps, forearms",23,101,1,25,12,NULL,NULL,kg
+462,25/04/2025,"Shoulders, traps, forearms",23,101,2,25,10,NULL,NULL,kg
+463,25/04/2025,"Shoulders, traps, forearms",23,101,3,25,9,NULL,NULL,kg
+464,12/05/2025,Back and biceps,25,102,1,20,5,NULL,NULL,kg
+465,12/05/2025,Back and biceps,25,102,2,80,5,NULL,NULL,kg
+466,12/05/2025,Back and biceps,25,102,3,80,5,NULL,NULL,kg
+467,12/05/2025,Back and biceps,2,103,1,45,8,NULL,NULL,kg
+468,12/05/2025,Back and biceps,2,103,2,45,6,NULL,NULL,kg
+469,12/05/2025,Back and biceps,2,103,3,45,8,NULL,NULL,kg
+470,12/05/2025,Back and biceps,1,104,1,15,8,NULL,NULL,kg
+471,12/05/2025,Back and biceps,1,104,2,15,8,NULL,NULL,kg
+472,12/05/2025,Back and biceps,1,104,3,15,12,NULL,NULL,kg
+473,12/05/2025,Back and biceps,2,105,1,36,12,NULL,NULL,kg
+474,12/05/2025,Back and biceps,2,105,2,36,12,NULL,NULL,kg
+475,12/05/2025,Back and biceps,2,105,3,36,12,NULL,NULL,kg
+476,12/05/2025,Back and biceps,3,106,1,50,8,NULL,NULL,kg
+477,12/05/2025,Back and biceps,3,106,2,45,5,NULL,NULL,kg
+478,12/05/2025,Back and biceps,3,106,3,41,6,NULL,NULL,kg
+479,12/05/2025,Back and biceps,3,106,4,36,10,NULL,NULL,kg
+480,12/05/2025,Back and biceps,3,106,5,32,12,NULL,NULL,kg
+481,12/05/2025,Back and biceps,3,106,6,27,22,NULL,NULL,kg
+482,12/05/2025,Back and biceps,26,107,1,9,12,NULL,NULL,kg
+483,12/05/2025,Back and biceps,26,107,2,9,12,NULL,NULL,kg
+484,12/05/2025,Back and biceps,26,107,3,9,8,NULL,NULL,kg
+485,12/05/2025,Back and biceps,5,108,1,6,10,NULL,NULL,kg
+486,12/05/2025,Back and biceps,5,108,2,6,8,NULL,NULL,kg
+487,12/05/2025,Back and biceps,5,108,3,6,5,NULL,NULL,kg
+488,12/05/2025,Back and biceps,4,109,1,10,4,NULL,NULL,kg
+489,12/05/2025,Back and biceps,4,109,2,9,3,NULL,NULL,kg
+490,12/05/2025,Back and biceps,4,109,3,8,3,NULL,NULL,kg
+491,12/05/2025,Back and biceps,4,109,4,7,4,NULL,NULL,kg
+492,12/05/2025,Back and biceps,4,109,5,6,6,NULL,NULL,kg
+493,12/05/2025,Back and biceps,4,109,6,4,17,NULL,NULL,kg
+494,13/05/2025,Chest & triceps,6,110,1,10,10,NULL,NULL,kg
+495,13/05/2025,Chest & triceps,6,110,2,30,8,NULL,NULL,kg
+496,13/05/2025,Chest & triceps,6,110,3,30,8,NULL,NULL,kg
+497,13/05/2025,Chest & triceps,6,110,4,30,5,NULL,NULL,kg
+498,13/05/2025,Chest & triceps,28,111,1,30,8,NULL,NULL,kg
+499,13/05/2025,Chest & triceps,28,111,2,30,8,NULL,NULL,kg
+500,13/05/2025,Chest & triceps,28,111,3,30,8,NULL,NULL,kg
+501,13/05/2025,Chest & triceps,10,112,1,40,10,NULL,NULL,kg
+502,13/05/2025,Chest & triceps,10,112,2,40,9,NULL,NULL,kg
+503,13/05/2025,Chest & triceps,10,112,3,40,10,NULL,NULL,kg
+504,13/05/2025,Chest & triceps,29,113,1,20,12,NULL,NULL,kg
+505,13/05/2025,Chest & triceps,29,113,2,20,15,NULL,NULL,kg
+506,13/05/2025,Chest & triceps,29,113,3,20,15,NULL,NULL,kg
+507,13/05/2025,Chest & triceps,8,114,1,45,11,NULL,NULL,kg
+508,13/05/2025,Chest & triceps,8,114,2,41,3,NULL,NULL,kg
+509,13/05/2025,Chest & triceps,8,114,3,36,4,NULL,NULL,kg
+510,13/05/2025,Chest & triceps,8,114,4,32,6,NULL,NULL,kg
+511,13/05/2025,Chest & triceps,8,114,5,27,7,NULL,NULL,kg
+512,13/05/2025,Chest & triceps,8,114,6,23,11,NULL,NULL,kg
+513,13/05/2025,Chest & triceps,8,114,7,18,10,NULL,NULL,kg
+514,13/05/2025,Chest & triceps,11,115,1,15,12,NULL,NULL,kg
+515,13/05/2025,Chest & triceps,11,115,2,15,12,NULL,NULL,kg
+516,13/05/2025,Chest & triceps,11,115,3,15,6,NULL,NULL,kg
+517,13/05/2025,Chest & triceps,12,116,1,15,8,NULL,NULL,kg
+518,13/05/2025,Chest & triceps,12,116,2,15,8,NULL,NULL,kg
+519,13/05/2025,Chest & triceps,12,116,3,15,8,NULL,NULL,kg
+520,13/05/2025,Chest & triceps,13,117,1,41,3,NULL,NULL,kg
+521,13/05/2025,Chest & triceps,13,117,2,36,2,NULL,NULL,kg
+522,13/05/2025,Chest & triceps,13,117,3,32,2,NULL,NULL,kg
+523,13/05/2025,Chest & triceps,13,117,4,27,3,NULL,NULL,kg
+524,13/05/2025,Chest & triceps,13,117,5,23,7,NULL,NULL,kg
+525,13/05/2025,Chest & triceps,13,117,6,18,12,NULL,NULL,kg
+526,13/05/2025,Chest & triceps,13,117,7,9,25,NULL,NULL,kg
+527,19/05/2025,Back and biceps,25,118,1,40,5,NULL,NULL,kg
+528,19/05/2025,Back and biceps,25,118,2,100,5,NULL,NULL,kg
+529,19/05/2025,Back and biceps,25,118,3,100,5,NULL,NULL,kg
+530,19/05/2025,Back and biceps,2,119,1,45,8,NULL,NULL,kg
+531,19/05/2025,Back and biceps,2,119,2,45,8,NULL,NULL,kg
+532,19/05/2025,Back and biceps,2,119,3,45,10,NULL,NULL,kg
+533,19/05/2025,Back and biceps,1,120,1,15,8,NULL,NULL,kg
+534,19/05/2025,Back and biceps,1,120,2,15,12,NULL,NULL,kg
+535,19/05/2025,Back and biceps,1,120,3,15,12,NULL,NULL,kg
+536,19/05/2025,Back and biceps,2,121,1,41,10,NULL,NULL,kg
+537,19/05/2025,Back and biceps,2,121,2,41,10,NULL,NULL,kg
+538,19/05/2025,Back and biceps,2,121,3,41,10,NULL,NULL,kg
+539,19/05/2025,Back and biceps,3,122,1,50,8,NULL,NULL,kg
+540,19/05/2025,Back and biceps,3,122,2,45,5,NULL,NULL,kg
+541,19/05/2025,Back and biceps,3,122,3,41,7,NULL,NULL,kg
+542,19/05/2025,Back and biceps,3,122,4,36,10,NULL,NULL,kg
+543,19/05/2025,Back and biceps,3,122,5,32,16,NULL,NULL,kg
+544,19/05/2025,Back and biceps,3,122,6,27,12,NULL,NULL,kg
+545,19/05/2025,Back and biceps,26,123,1,9,12,NULL,NULL,kg
+546,19/05/2025,Back and biceps,26,123,2,9,12,NULL,NULL,kg
+547,19/05/2025,Back and biceps,26,123,3,9,12,NULL,NULL,kg
+548,19/05/2025,Back and biceps,31,124,1,6,10,NULL,NULL,kg
+549,19/05/2025,Back and biceps,31,124,2,6,10,NULL,NULL,kg
+550,19/05/2025,Back and biceps,31,124,3,6,7,NULL,NULL,kg
+551,19/05/2025,Back and biceps,27,125,1,10,2,NULL,NULL,kg
+552,19/05/2025,Back and biceps,27,125,2,9,1,NULL,NULL,kg
+553,19/05/2025,Back and biceps,27,125,3,8,2,NULL,NULL,kg
+554,19/05/2025,Back and biceps,27,125,4,7,2,NULL,NULL,kg
+555,19/05/2025,Back and biceps,27,125,5,6,3,NULL,NULL,kg
+556,19/05/2025,Back and biceps,27,125,6,5,6,NULL,NULL,kg
+557,19/05/2025,Back and biceps,27,125,7,3,13,NULL,NULL,kg
+558,20/05/2025,Chest & triceps,6,126,1,10,6,NULL,NULL,kg
+559,20/05/2025,Chest & triceps,6,126,2,30,8,NULL,NULL,kg
+560,20/05/2025,Chest & triceps,6,126,3,30,10,NULL,NULL,kg
+561,20/05/2025,Chest & triceps,6,126,4,30,8,NULL,NULL,kg
+562,20/05/2025,Chest & triceps,28,127,1,30,10,NULL,NULL,kg
+563,20/05/2025,Chest & triceps,28,127,2,30,8,NULL,NULL,kg
+564,20/05/2025,Chest & triceps,28,127,3,30,8,NULL,NULL,kg
+565,20/05/2025,Chest & triceps,10,128,1,40,10,NULL,NULL,kg
+566,20/05/2025,Chest & triceps,10,128,2,40,10,NULL,NULL,kg
+567,20/05/2025,Chest & triceps,10,128,3,40,9,NULL,NULL,kg
+568,20/05/2025,Chest & triceps,29,129,1,20,15,NULL,NULL,kg
+569,20/05/2025,Chest & triceps,29,129,2,20,15,NULL,NULL,kg
+570,20/05/2025,Chest & triceps,29,129,3,20,12,NULL,NULL,kg
+571,20/05/2025,Chest & triceps,8,130,1,45,18,NULL,NULL,kg
+572,20/05/2025,Chest & triceps,8,130,2,41,5,NULL,NULL,kg
+573,20/05/2025,Chest & triceps,8,130,3,36,5,NULL,NULL,kg
+574,20/05/2025,Chest & triceps,8,130,4,32,7,NULL,NULL,kg
+575,20/05/2025,Chest & triceps,8,130,5,27,7,NULL,NULL,kg
+576,20/05/2025,Chest & triceps,8,130,6,23,11,NULL,NULL,kg
+577,20/05/2025,Chest & triceps,11,131,1,15,10,NULL,NULL,kg
+578,20/05/2025,Chest & triceps,11,131,2,15,10,NULL,NULL,kg
+579,20/05/2025,Chest & triceps,11,131,3,15,6,NULL,NULL,kg
+580,20/05/2025,Chest & triceps,12,132,1,15,10,NULL,NULL,kg
+581,20/05/2025,Chest & triceps,12,132,2,15,10,NULL,NULL,kg
+582,20/05/2025,Chest & triceps,12,132,3,15,10,NULL,NULL,kg
+583,20/05/2025,Chest & triceps,13,133,1,41,9,NULL,NULL,kg
+584,20/05/2025,Chest & triceps,13,133,2,36,5,NULL,NULL,kg
+585,20/05/2025,Chest & triceps,13,133,3,32,6,NULL,NULL,kg
+586,20/05/2025,Chest & triceps,13,133,4,27,8,NULL,NULL,kg
+587,20/05/2025,Chest & triceps,13,133,5,23,14,NULL,NULL,kg
+588,20/05/2025,Chest & triceps,13,133,6,18,15,NULL,NULL,kg
+589,22/05/2025,Legs,14,134,1,20,8,NULL,NULL,kg
+590,22/05/2025,Legs,14,134,2,40,8,NULL,NULL,kg
+591,22/05/2025,Legs,14,134,3,40,8,NULL,NULL,kg
+592,22/05/2025,Legs,14,134,4,40,8,NULL,NULL,kg
+593,22/05/2025,Legs,15,135,1,50,15,NULL,NULL,kg
+594,22/05/2025,Legs,15,135,2,50,10,NULL,NULL,kg
+595,22/05/2025,Legs,15,135,3,50,10,NULL,NULL,kg
+596,22/05/2025,Legs,16,136,1,35,1,NULL,NULL,kg
+597,22/05/2025,Legs,16,136,2,30,1,NULL,NULL,kg
+598,22/05/2025,Legs,16,136,3,25,5,NULL,NULL,kg
+599,22/05/2025,Legs,16,136,4,20,1,NULL,NULL,kg
+600,22/05/2025,Legs,16,136,5,15,8,NULL,NULL,kg
+601,22/05/2025,Legs,16,136,6,10,8,NULL,NULL,kg
+602,22/05/2025,Legs,16,136,7,10,12,NULL,NULL,kg
+603,22/05/2025,Legs,17,137,1,40,8,NULL,NULL,kg
+604,22/05/2025,Legs,17,137,2,40,10,NULL,NULL,kg
+605,22/05/2025,Legs,17,137,3,40,8,NULL,NULL,kg
+606,22/05/2025,Legs,18,138,1,37.5,16,NULL,NULL,kg
+607,22/05/2025,Legs,18,138,2,30,7,NULL,NULL,kg
+608,22/05/2025,Legs,18,138,3,25,16,NULL,NULL,kg
+609,22/05/2025,Legs,18,138,4,20,15,NULL,NULL,kg
+610,22/05/2025,Legs,18,138,5,15,10,NULL,NULL,kg
+611,22/05/2025,Legs,19,139,1,25,12,NULL,NULL,kg
+612,22/05/2025,Legs,19,139,2,25,12,NULL,NULL,kg
+613,22/05/2025,Legs,19,139,3,25,12,NULL,NULL,kg
+614,23/05/2025,"Shoulders, traps, forearms",20,140,1,20,10,NULL,NULL,kg
+615,23/05/2025,"Shoulders, traps, forearms",20,140,2,30,10,NULL,NULL,kg
+616,23/05/2025,"Shoulders, traps, forearms",20,140,3,30,10,NULL,NULL,kg
+617,23/05/2025,"Shoulders, traps, forearms",20,140,4,30,10,NULL,NULL,kg
+618,23/05/2025,"Shoulders, traps, forearms",20,141,1,25,8,NULL,NULL,kg
+619,23/05/2025,"Shoulders, traps, forearms",20,141,2,25,8,NULL,NULL,kg
+620,23/05/2025,"Shoulders, traps, forearms",20,141,3,25,12,NULL,NULL,kg
+621,23/05/2025,"Shoulders, traps, forearms",21,142,1,10,10,NULL,NULL,kg
+622,23/05/2025,"Shoulders, traps, forearms",21,142,2,10,10,NULL,NULL,kg
+623,23/05/2025,"Shoulders, traps, forearms",21,142,3,10,10,NULL,NULL,kg
+624,23/05/2025,"Shoulders, traps, forearms",22,143,1,41,4,NULL,NULL,kg
+625,23/05/2025,"Shoulders, traps, forearms",22,143,2,36,3,NULL,NULL,kg
+626,23/05/2025,"Shoulders, traps, forearms",22,143,3,32,3,NULL,NULL,kg
+627,23/05/2025,"Shoulders, traps, forearms",22,143,4,27,2,NULL,NULL,kg
+628,23/05/2025,"Shoulders, traps, forearms",22,143,5,23,5,NULL,NULL,kg
+629,23/05/2025,"Shoulders, traps, forearms",22,143,6,18,7,NULL,NULL,kg
+630,23/05/2025,"Shoulders, traps, forearms",22,143,7,14,5,NULL,NULL,kg
+631,23/05/2025,"Shoulders, traps, forearms",23,144,1,25,10,NULL,NULL,kg
+632,23/05/2025,"Shoulders, traps, forearms",23,144,2,25,10,NULL,NULL,kg
+633,23/05/2025,"Shoulders, traps, forearms",23,144,3,25,5,NULL,NULL,kg
+634,26/05/2025,Back and biceps,25,145,1,80,5,NULL,NULL,kg
+635,26/05/2025,Back and biceps,25,145,2,110,5,NULL,NULL,kg
+636,26/05/2025,Back and biceps,25,145,3,110,5,NULL,NULL,kg
+637,26/05/2025,Back and biceps,2,146,1,45,8,NULL,NULL,kg
+638,26/05/2025,Back and biceps,2,146,2,45,10,NULL,NULL,kg
+639,26/05/2025,Back and biceps,2,146,3,45,10,NULL,NULL,kg
+640,26/05/2025,Back and biceps,1,147,1,15,20,NULL,NULL,kg
+641,26/05/2025,Back and biceps,1,147,2,15,24,NULL,NULL,kg
+642,26/05/2025,Back and biceps,1,147,3,15,24,NULL,NULL,kg
+643,26/05/2025,Back and biceps,2,148,1,41,10,NULL,NULL,kg
+644,26/05/2025,Back and biceps,2,148,2,41,10,NULL,NULL,kg
+645,26/05/2025,Back and biceps,2,148,3,41,10,NULL,NULL,kg
+646,26/05/2025,Back and biceps,3,149,1,50,9,NULL,NULL,kg
+647,26/05/2025,Back and biceps,3,149,2,45,6,NULL,NULL,kg
+648,26/05/2025,Back and biceps,3,149,3,41,8,NULL,NULL,kg
+649,26/05/2025,Back and biceps,3,149,4,36,9,NULL,NULL,kg
+650,26/05/2025,Back and biceps,3,149,5,32,14,NULL,NULL,kg
+651,26/05/2025,Back and biceps,3,149,6,27,12,NULL,NULL,kg
+652,26/05/2025,Back and biceps,3,149,7,23,16,NULL,NULL,kg
+653,26/05/2025,Back and biceps,26,150,1,14,10,NULL,NULL,kg
+654,26/05/2025,Back and biceps,26,150,2,14,10,NULL,NULL,kg
+655,26/05/2025,Back and biceps,26,150,3,14,10,NULL,NULL,kg
+656,26/05/2025,Back and biceps,31,151,1,6,10,NULL,NULL,kg
+657,26/05/2025,Back and biceps,31,151,2,6,10,NULL,NULL,kg
+658,26/05/2025,Back and biceps,31,151,3,6,12,NULL,NULL,kg
+659,26/05/2025,Back and biceps,27,152,1,10,2,NULL,NULL,kg
+660,26/05/2025,Back and biceps,27,152,2,9,2,NULL,NULL,kg
+661,26/05/2025,Back and biceps,27,152,3,8,3,NULL,NULL,kg
+662,26/05/2025,Back and biceps,27,152,4,7,3,NULL,NULL,kg
+663,26/05/2025,Back and biceps,27,152,5,6,5,NULL,NULL,kg
+664,26/05/2025,Back and biceps,27,152,6,5,8,NULL,NULL,kg
+665,26/05/2025,Back and biceps,27,152,7,4,12,NULL,NULL,kg
+666,27/05/2025,Chest & triceps,6,153,1,20,6,NULL,NULL,kg
+667,27/05/2025,Chest & triceps,6,153,2,30,10,NULL,NULL,kg
+668,27/05/2025,Chest & triceps,6,153,3,30,10,NULL,NULL,kg
+669,27/05/2025,Chest & triceps,6,153,4,30,10,NULL,NULL,kg
+670,27/05/2025,Chest & triceps,28,154,1,30,8,NULL,NULL,kg
+671,27/05/2025,Chest & triceps,28,154,2,30,10,NULL,NULL,kg
+672,27/05/2025,Chest & triceps,28,154,3,30,10,NULL,NULL,kg
+673,27/05/2025,Chest & triceps,10,155,1,40,10,NULL,NULL,kg
+674,27/05/2025,Chest & triceps,10,155,2,40,10,NULL,NULL,kg
+675,27/05/2025,Chest & triceps,10,155,3,40,12,NULL,NULL,kg
+676,27/05/2025,Chest & triceps,29,156,1,25,12,NULL,NULL,kg
+677,27/05/2025,Chest & triceps,29,156,2,25,12,NULL,NULL,kg
+678,27/05/2025,Chest & triceps,29,156,3,25,13,NULL,NULL,kg
+679,27/05/2025,Chest & triceps,8,157,1,52.5,9,NULL,NULL,kg
+680,27/05/2025,Chest & triceps,8,157,2,45,9,NULL,NULL,kg
+681,27/05/2025,Chest & triceps,8,157,3,37.5,8,NULL,NULL,kg
+682,27/05/2025,Chest & triceps,8,157,4,30,20,NULL,NULL,kg
+683,27/05/2025,Chest & triceps,8,157,5,25,22,NULL,NULL,kg
+684,27/05/2025,Chest & triceps,11,158,1,15,8,NULL,NULL,kg
+685,27/05/2025,Chest & triceps,11,158,2,15,10,NULL,NULL,kg
+686,27/05/2025,Chest & triceps,11,158,3,15,12,NULL,NULL,kg
+687,27/05/2025,Chest & triceps,12,159,1,15,10,NULL,NULL,kg
+688,27/05/2025,Chest & triceps,12,159,2,15,10,NULL,NULL,kg
+689,27/05/2025,Chest & triceps,12,159,3,15,12,NULL,NULL,kg
+690,27/05/2025,Chest & triceps,13,160,1,27,9,NULL,NULL,kg
+691,27/05/2025,Chest & triceps,13,160,2,23,5,NULL,NULL,kg
+692,27/05/2025,Chest & triceps,13,160,3,18,8,NULL,NULL,kg
+693,27/05/2025,Chest & triceps,13,160,4,14,22,NULL,NULL,kg
+694,27/05/2025,Chest & triceps,13,160,5,9,21,NULL,NULL,kg
+695,29/05/2025,Legs,14,161,1,20,6,NULL,NULL,kg
+696,29/05/2025,Legs,14,161,2,40,8,NULL,NULL,kg
+697,29/05/2025,Legs,14,161,3,40,10,NULL,NULL,kg
+698,29/05/2025,Legs,14,161,4,40,10,NULL,NULL,kg
+699,29/05/2025,Legs,15,162,1,50,20,NULL,NULL,kg
+700,29/05/2025,Legs,15,162,2,50,20,NULL,NULL,kg
+701,29/05/2025,Legs,15,162,3,50,20,NULL,NULL,kg
+702,29/05/2025,Legs,16,163,1,40,7,NULL,NULL,kg
+703,29/05/2025,Legs,16,163,2,35,5,NULL,NULL,kg
+704,29/05/2025,Legs,16,163,3,30,4,NULL,NULL,kg
+705,29/05/2025,Legs,16,163,4,25,4,NULL,NULL,kg
+706,29/05/2025,Legs,16,163,5,20,5,NULL,NULL,kg
+707,29/05/2025,Legs,16,163,6,15,9,NULL,NULL,kg
+708,29/05/2025,Legs,16,163,7,10,20,NULL,NULL,kg
+709,29/05/2025,Legs,17,164,1,40,12,NULL,NULL,kg
+710,29/05/2025,Legs,17,164,2,40,12,NULL,NULL,kg
+711,29/05/2025,Legs,17,164,3,40,9,NULL,NULL,kg
+712,29/05/2025,Legs,18,165,1,45,20,NULL,NULL,kg
+713,29/05/2025,Legs,18,165,2,37.5,7,NULL,NULL,kg
+714,29/05/2025,Legs,18,165,3,30,7,NULL,NULL,kg
+715,29/05/2025,Legs,18,165,4,25,16,NULL,NULL,kg
+716,29/05/2025,Legs,18,165,5,20,23,NULL,NULL,kg
+717,29/05/2025,Legs,19,166,1,25,12,NULL,NULL,kg
+718,29/05/2025,Legs,19,166,2,25,13,NULL,NULL,kg
+719,29/05/2025,Legs,19,166,3,25,15,NULL,NULL,kg
+720,29/05/2025,Legs,19,167,1,42.5,17,NULL,NULL,kg
+721,29/05/2025,Legs,19,167,2,35,12,NULL,NULL,kg
+722,29/05/2025,Legs,19,167,3,27.5,14,NULL,NULL,kg
+723,29/05/2025,Legs,19,167,4,20,14,NULL,NULL,kg
+724,29/05/2025,Legs,19,167,5,12.5,12,NULL,NULL,kg
+725,29/05/2025,Legs,19,167,6,12.5,4,NULL,NULL,kg
+726,30/05/2025,"Shoulders, traps, forearms",20,168,1,20,6,NULL,NULL,kg
+727,30/05/2025,"Shoulders, traps, forearms",20,168,2,35,6,NULL,NULL,kg
+728,30/05/2025,"Shoulders, traps, forearms",20,168,3,35,6,NULL,NULL,kg
+729,30/05/2025,"Shoulders, traps, forearms",20,168,4,35,10,NULL,NULL,kg
+730,30/05/2025,"Shoulders, traps, forearms",20,169,1,30,10,NULL,NULL,kg
+731,30/05/2025,"Shoulders, traps, forearms",20,169,2,30,8,NULL,NULL,kg
+732,30/05/2025,"Shoulders, traps, forearms",20,169,3,30,10,NULL,NULL,kg
+733,30/05/2025,"Shoulders, traps, forearms",21,170,1,10,10,NULL,NULL,kg
+734,30/05/2025,"Shoulders, traps, forearms",21,170,2,10,10,NULL,NULL,kg
+735,30/05/2025,"Shoulders, traps, forearms",21,170,3,10,12,NULL,NULL,kg
+736,30/05/2025,"Shoulders, traps, forearms",22,171,1,41,8,NULL,NULL,kg
+737,30/05/2025,"Shoulders, traps, forearms",22,171,2,36,4,NULL,NULL,kg
+738,30/05/2025,"Shoulders, traps, forearms",22,171,3,32,2,NULL,NULL,kg
+739,30/05/2025,"Shoulders, traps, forearms",22,171,4,27,3,NULL,NULL,kg
+740,30/05/2025,"Shoulders, traps, forearms",22,171,5,23,6,NULL,NULL,kg
+741,30/05/2025,"Shoulders, traps, forearms",22,171,6,18,7,NULL,NULL,kg
+742,30/05/2025,"Shoulders, traps, forearms",22,171,7,14,8,NULL,NULL,kg
+743,30/05/2025,"Shoulders, traps, forearms",22,171,8,9,13,NULL,NULL,kg
+744,30/05/2025,"Shoulders, traps, forearms",23,172,1,25,10,NULL,NULL,kg
+745,30/05/2025,"Shoulders, traps, forearms",23,172,2,25,11,NULL,NULL,kg
+746,30/05/2025,"Shoulders, traps, forearms",23,172,3,25,12,NULL,NULL,kg
+747,30/05/2025,"Shoulders, traps, forearms",24,173,1,55,9,NULL,NULL,kg
+748,30/05/2025,"Shoulders, traps, forearms",24,173,2,40,8,NULL,NULL,kg
+749,30/05/2025,"Shoulders, traps, forearms",24,173,3,35,8,NULL,NULL,kg
+750,30/05/2025,"Shoulders, traps, forearms",24,173,4,30,8,NULL,NULL,kg
+751,30/05/2025,"Shoulders, traps, forearms",24,173,5,25,8,NULL,NULL,kg
+752,02/06/2025,Back and biceps,25,174,1,30,5,NULL,NULL,kg
+753,02/06/2025,Back and biceps,25,174,2,110,5,NULL,NULL,kg
+754,02/06/2025,Back and biceps,25,174,3,110,5,NULL,NULL,kg
+755,02/06/2025,Back and biceps,2,175,1,50,6,NULL,NULL,kg
+756,02/06/2025,Back and biceps,2,175,2,50,6,NULL,NULL,kg
+757,02/06/2025,Back and biceps,2,175,3,50,10,NULL,NULL,kg
+758,02/06/2025,Back and biceps,1,176,1,17.5,16,NULL,NULL,kg
+759,02/06/2025,Back and biceps,1,176,2,17.5,16,NULL,NULL,kg
+760,02/06/2025,Back and biceps,1,176,3,17.5,20,NULL,NULL,kg
+761,02/06/2025,Back and biceps,2,177,1,41,12,NULL,NULL,kg
+762,02/06/2025,Back and biceps,2,177,2,41,12,NULL,NULL,kg
+763,02/06/2025,Back and biceps,2,177,3,41,11,NULL,NULL,kg
+764,02/06/2025,Back and biceps,3,178,1,50,11,NULL,NULL,kg
+765,02/06/2025,Back and biceps,3,178,2,45,5,NULL,NULL,kg
+766,02/06/2025,Back and biceps,3,178,3,41,7,NULL,NULL,kg
+767,02/06/2025,Back and biceps,3,178,4,36,11,NULL,NULL,kg
+768,02/06/2025,Back and biceps,3,178,5,32,13,NULL,NULL,kg
+769,02/06/2025,Back and biceps,3,178,6,27,13,NULL,NULL,kg
+770,02/06/2025,Back and biceps,3,178,7,23,16,NULL,NULL,kg
+771,02/06/2025,Back and biceps,26,179,1,14,12,NULL,NULL,kg
+772,02/06/2025,Back and biceps,26,179,2,14,10,NULL,NULL,kg
+773,02/06/2025,Back and biceps,26,179,3,14,9,NULL,NULL,kg
+774,02/06/2025,Back and biceps,31,180,1,6,10,NULL,NULL,kg
+775,02/06/2025,Back and biceps,31,180,2,6,12,NULL,NULL,kg
+776,02/06/2025,Back and biceps,31,180,3,6,12,NULL,NULL,kg
+777,02/06/2025,Back and biceps,27,181,1,9,4,NULL,NULL,kg
+778,02/06/2025,Back and biceps,27,181,2,8,2,NULL,NULL,kg
+779,02/06/2025,Back and biceps,27,181,3,7,4,NULL,NULL,kg
+780,02/06/2025,Back and biceps,27,181,4,6,4,NULL,NULL,kg
+781,02/06/2025,Back and biceps,27,181,5,5,10,NULL,NULL,kg
+782,02/06/2025,Back and biceps,27,181,6,4,12,NULL,NULL,kg
+783,02/06/2025,Back and biceps,27,181,7,3,11,NULL,NULL,kg
+784,03/06/2025,Chest & triceps,6,182,1,20,8,NULL,NULL,kg
+785,03/06/2025,Chest & triceps,6,182,2,40,4,NULL,NULL,kg
+786,03/06/2025,Chest & triceps,6,182,3,40,4,NULL,NULL,kg
+787,03/06/2025,Chest & triceps,6,182,4,40,4,NULL,NULL,kg
+788,03/06/2025,Chest & triceps,28,183,1,30,10,NULL,NULL,kg
+789,03/06/2025,Chest & triceps,28,183,2,30,12,NULL,NULL,kg
+790,03/06/2025,Chest & triceps,28,183,3,30,12,NULL,NULL,kg
+791,03/06/2025,Chest & triceps,10,184,1,40,12,NULL,NULL,kg
+792,03/06/2025,Chest & triceps,10,184,2,40,12,NULL,NULL,kg
+793,03/06/2025,Chest & triceps,10,184,3,40,12,NULL,NULL,kg
+794,03/06/2025,Chest & triceps,29,185,1,25,12,NULL,NULL,kg
+795,03/06/2025,Chest & triceps,29,185,2,25,15,NULL,NULL,kg
+796,03/06/2025,Chest & triceps,29,185,3,25,12,NULL,NULL,kg
+797,03/06/2025,Chest & triceps,8,186,1,52.5,12,NULL,NULL,kg
+798,03/06/2025,Chest & triceps,8,186,2,45,8,NULL,NULL,kg
+799,03/06/2025,Chest & triceps,8,186,3,37.5,11,NULL,NULL,kg
+800,03/06/2025,Chest & triceps,8,186,4,30,14,NULL,NULL,kg
+801,03/06/2025,Chest & triceps,8,186,5,25,31,NULL,NULL,kg
+802,03/06/2025,Chest & triceps,11,187,1,15,12,NULL,NULL,kg
+803,03/06/2025,Chest & triceps,11,187,2,15,12,NULL,NULL,kg
+804,03/06/2025,Chest & triceps,11,187,3,15,6,NULL,NULL,kg
+805,03/06/2025,Chest & triceps,12,188,1,15,12,NULL,NULL,kg
+806,03/06/2025,Chest & triceps,12,188,2,15,12,NULL,NULL,kg
+807,03/06/2025,Chest & triceps,12,188,3,15,12,NULL,NULL,kg
+808,03/06/2025,Chest & triceps,13,189,1,27,8,NULL,NULL,kg
+809,03/06/2025,Chest & triceps,13,189,2,23,5,NULL,NULL,kg
+810,03/06/2025,Chest & triceps,13,189,3,18,6,NULL,NULL,kg
+811,03/06/2025,Chest & triceps,13,189,4,14,17,NULL,NULL,kg
+812,03/06/2025,Chest & triceps,13,189,5,9,42,NULL,NULL,kg
+813,05/06/2025,Legs,14,190,1,0,8,NULL,NULL,kg
+814,05/06/2025,Legs,14,190,2,40,10,NULL,NULL,kg
+815,05/06/2025,Legs,14,190,3,40,10,NULL,NULL,kg
+816,05/06/2025,Legs,14,190,4,40,10,NULL,NULL,kg
+817,05/06/2025,Legs,15,191,1,52,20,NULL,NULL,kg
+818,05/06/2025,Legs,15,191,2,52,20,NULL,NULL,kg
+819,05/06/2025,Legs,15,191,3,52,20,NULL,NULL,kg
+820,05/06/2025,Legs,16,192,1,45,10,NULL,NULL,kg
+821,05/06/2025,Legs,16,192,2,37.5,4,NULL,NULL,kg
+822,05/06/2025,Legs,16,192,3,30,5,NULL,NULL,kg
+823,05/06/2025,Legs,16,192,4,25,5,NULL,NULL,kg
+824,05/06/2025,Legs,16,192,5,20,6,NULL,NULL,kg
+825,05/06/2025,Legs,16,192,6,15,10,NULL,NULL,kg
+826,05/06/2025,Legs,16,192,7,10,13,NULL,NULL,kg
+827,05/06/2025,Legs,17,193,1,40,12,NULL,NULL,kg
+828,05/06/2025,Legs,17,193,2,40,8,NULL,NULL,kg
+829,05/06/2025,Legs,17,193,3,40,10,NULL,NULL,kg
+830,05/06/2025,Legs,18,194,1,52.5,12,NULL,NULL,kg
+831,05/06/2025,Legs,18,194,2,45,5,NULL,NULL,kg
+832,05/06/2025,Legs,18,194,3,37.5,5,NULL,NULL,kg
+833,05/06/2025,Legs,18,194,4,30,13,NULL,NULL,kg
+834,05/06/2025,Legs,18,194,5,25,23,NULL,NULL,kg
+835,05/06/2025,Legs,19,195,1,25,15,NULL,NULL,kg
+836,05/06/2025,Legs,19,195,2,25,15,NULL,NULL,kg
+837,05/06/2025,Legs,19,195,3,25,15,NULL,NULL,kg
+838,05/06/2025,Legs,19,196,1,45,19,NULL,NULL,kg
+839,05/06/2025,Legs,19,196,2,39,12,NULL,NULL,kg
+840,05/06/2025,Legs,19,196,3,32,13,NULL,NULL,kg
+841,05/06/2025,Legs,19,196,4,25,13,NULL,NULL,kg
+842,05/06/2025,Legs,19,196,5,18,16,NULL,NULL,kg
+843,05/06/2025,Legs,19,196,6,11,20,NULL,NULL,kg
+844,06/06/2025,"Shoulders, traps, forearms",20,197,1,25,8,,,kg
+845,06/06/2025,"Shoulders, traps, forearms",20,197,2,35,8,,,kg
+846,06/06/2025,"Shoulders, traps, forearms",20,197,3,35,8,,,kg
+847,06/06/2025,"Shoulders, traps, forearms",20,197,4,35,10,,,kg
+848,06/06/2025,"Shoulders, traps, forearms",20,198,1,30,10,,,kg
+849,06/06/2025,"Shoulders, traps, forearms",20,198,2,30,10,,,kg
+850,06/06/2025,"Shoulders, traps, forearms",20,198,3,30,12,,,kg
+851,06/06/2025,"Shoulders, traps, forearms",21,199,1,10,10,,,kg
+852,06/06/2025,"Shoulders, traps, forearms",21,199,2,10,12,,,kg
+853,06/06/2025,"Shoulders, traps, forearms",21,199,3,10,15,,,kg
+854,06/06/2025,"Shoulders, traps, forearms",22,200,1,41,10,,,kg
+855,06/06/2025,"Shoulders, traps, forearms",22,200,2,36,3,,,kg
+856,06/06/2025,"Shoulders, traps, forearms",22,200,3,32,4,,,kg
+857,06/06/2025,"Shoulders, traps, forearms",22,200,4,27,5,,,kg
+858,06/06/2025,"Shoulders, traps, forearms",22,200,5,23,5,,,kg
+859,06/06/2025,"Shoulders, traps, forearms",22,200,6,18,9,,,kg
+860,06/06/2025,"Shoulders, traps, forearms",22,200,7,14,11,,,kg
+861,06/06/2025,"Shoulders, traps, forearms",23,201,1,25,12,,,kg
+862,06/06/2025,"Shoulders, traps, forearms",23,201,2,25,12,,,kg
+863,06/06/2025,"Shoulders, traps, forearms",23,201,3,25,10,,,kg
+864,06/06/2025,"Shoulders, traps, forearms",24,202,1,50,16,,,kg
+865,06/06/2025,"Shoulders, traps, forearms",24,202,2,45,10,,,kg
+866,06/06/2025,"Shoulders, traps, forearms",24,202,3,40,5,,,kg
+867,06/06/2025,"Shoulders, traps, forearms",24,202,4,30,10,,,kg
+868,06/06/2025,"Shoulders, traps, forearms",24,202,5,25,12,,,kg
+869,06/06/2025,"Shoulders, traps, forearms",24,202,6,20,9,,,kg
+870,09/06/2025,Back and biceps,25,203,1,20,5,,,kg
+871,09/06/2025,Back and biceps,25,203,2,110,5,,,kg
+872,09/06/2025,Back and biceps,25,203,3,110,5,,,kg
+873,09/06/2025,Back and biceps,2,204,1,50,8,,,kg
+874,09/06/2025,Back and biceps,2,204,2,50,8,,,kg
+875,09/06/2025,Back and biceps,2,204,3,50,8,,,kg
+876,09/06/2025,Back and biceps,1,205,1,17.5,20,,,kg
+877,09/06/2025,Back and biceps,1,205,2,17.5,20,,,kg
+878,09/06/2025,Back and biceps,1,205,3,17.5,20,,,kg
+879,09/06/2025,Back and biceps,2,206,1,41,12,,,kg
+880,09/06/2025,Back and biceps,2,206,2,41,9,,,kg
+881,09/06/2025,Back and biceps,2,206,3,41,4,,,kg
+882,09/06/2025,Back and biceps,3,207,1,50,12,,,kg
+883,09/06/2025,Back and biceps,3,207,2,45,7,,,kg
+884,09/06/2025,Back and biceps,3,207,3,41,9,,,kg
+885,09/06/2025,Back and biceps,3,207,4,36,10,,,kg
+886,09/06/2025,Back and biceps,3,207,5,32,12,,,kg
+887,09/06/2025,Back and biceps,3,207,6,27,33,,,kg
+888,09/06/2025,Back and biceps,26,208,1,14,10,,,kg
+889,09/06/2025,Back and biceps,26,208,2,14,12,,,kg
+890,09/06/2025,Back and biceps,26,208,3,14,10,,,kg
+891,09/06/2025,Back and biceps,31,209,1,6,12,,,kg
+892,09/06/2025,Back and biceps,31,209,2,6,12,,,kg
+893,09/06/2025,Back and biceps,31,209,3,6,12,,,kg
+894,09/06/2025,Back and biceps,27,210,1,9,6,,,kg
+895,09/06/2025,Back and biceps,27,210,2,8,4,,,kg
+896,09/06/2025,Back and biceps,27,210,3,7,5,,,kg
+897,09/06/2025,Back and biceps,27,210,4,6,6,,,kg
+898,09/06/2025,Back and biceps,27,210,5,5,7,,,kg
+899,09/06/2025,Back and biceps,27,210,6,4,13,,,kg
+900,11/06/2025,Chest & triceps,6,211,1,20,8,,,kg
+901,11/06/2025,Chest & triceps,6,211,2,40,6,,,kg
+902,11/06/2025,Chest & triceps,6,211,3,40,6,,,kg
+903,11/06/2025,Chest & triceps,6,211,4,40,4,,,kg
+904,11/06/2025,Chest & triceps,28,212,1,35,8,,,kg
+905,11/06/2025,Chest & triceps,28,212,2,35,8,,,kg
+906,11/06/2025,Chest & triceps,28,212,3,35,9,,,kg
+907,11/06/2025,Chest & triceps,10,213,1,45,8,,,kg
+908,11/06/2025,Chest & triceps,10,213,2,45,8,,,kg
+909,11/06/2025,Chest & triceps,10,213,3,45,12,,,kg
+910,11/06/2025,Chest & triceps,29,214,1,25,15,,,kg
+911,11/06/2025,Chest & triceps,29,214,2,25,13,,,kg
+912,11/06/2025,Chest & triceps,29,214,3,25,12,,,kg
+913,11/06/2025,Chest & triceps,8,215,1,52.5,14,,,kg
+914,11/06/2025,Chest & triceps,8,215,2,45,8,,,kg
+915,11/06/2025,Chest & triceps,8,215,3,37.5,11,,,kg
+916,11/06/2025,Chest & triceps,8,215,4,30,20,,,kg
+917,11/06/2025,Chest & triceps,8,215,5,25,23,,,kg
+918,11/06/2025,Chest & triceps,11,216,1,15,10,,,kg
+919,11/06/2025,Chest & triceps,11,216,2,15,12,,,kg
+920,11/06/2025,Chest & triceps,11,216,3,15,10,,,kg
+921,11/06/2025,Chest & triceps,12,217,1,17.5,8,,,kg
+922,11/06/2025,Chest & triceps,12,217,2,17.5,8,,,kg
+923,11/06/2025,Chest & triceps,12,217,3,17.5,8,,,kg
+924,11/06/2025,Chest & triceps,13,218,1,40,9,,,kg
+925,11/06/2025,Chest & triceps,13,218,2,35,5,,,kg
+926,11/06/2025,Chest & triceps,13,218,3,30,7,,,kg
+927,11/06/2025,Chest & triceps,13,218,4,25,11,,,kg
+928,11/06/2025,Chest & triceps,13,218,5,20,12,,,kg
+929,11/06/2025,Chest & triceps,13,218,6,15,17,,,kg
+930,11/06/2025,Chest & triceps,13,218,7,10,8,,,kg
+931,12/06/2025,Legs,14,219,1,20,8,,,kg
+932,12/06/2025,Legs,14,219,2,50,6,,,kg
+933,12/06/2025,Legs,14,219,3,50,6,,,kg
+934,12/06/2025,Legs,14,219,4,50,6,,,kg
+935,12/06/2025,Legs,15,220,1,59,15,,,kg
+936,12/06/2025,Legs,15,220,2,59,15,,,kg
+937,12/06/2025,Legs,15,220,3,59,17,,,kg
+938,12/06/2025,Legs,16,221,1,45,7,,,kg
+939,12/06/2025,Legs,16,221,2,37.5,6,,,kg
+940,12/06/2025,Legs,16,221,3,30,5,,,kg
+941,12/06/2025,Legs,16,221,4,25,4,,,kg
+942,12/06/2025,Legs,16,221,5,20,5,,,kg
+943,12/06/2025,Legs,16,221,6,15,7,,,kg
+944,12/06/2025,Legs,16,221,7,10,7,,,kg
+945,12/06/2025,Legs,16,221,8,5,13,,,kg
+946,12/06/2025,Legs,17,222,1,40,12,,,kg
+947,12/06/2025,Legs,17,222,2,40,12,,,kg
+948,12/06/2025,Legs,17,222,3,40,12,,,kg
+949,12/06/2025,Legs,18,223,1,52.5,16,,,kg
+950,12/06/2025,Legs,18,223,2,45,5,,,kg
+951,12/06/2025,Legs,18,223,3,37.5,6,,,kg
+952,12/06/2025,Legs,18,223,4,30,10,,,kg
+953,12/06/2025,Legs,18,223,5,25,10,,,kg
+954,12/06/2025,Legs,18,223,6,20,10,,,kg
+955,12/06/2025,Legs,18,223,7,15,16,,,kg
+956,12/06/2025,Legs,19,224,1,32,10,,,kg
+957,12/06/2025,Legs,19,224,2,32,10,,,kg
+958,12/06/2025,Legs,19,224,3,32,15,,,kg
+959,12/06/2025,Legs,19,225,1,52,11,,,kg
+960,12/06/2025,Legs,19,225,2,45,10,,,kg
+961,12/06/2025,Legs,19,225,3,39,10,,,kg
+962,12/06/2025,Legs,19,225,4,32,13,,,kg
+963,12/06/2025,Legs,19,225,5,25,13,,,kg
+964,12/06/2025,Legs,19,225,6,18,15,,,kg
+965,12/06/2025,Legs,19,225,7,11,11,,,kg
+966,13/06/2025,"Shoulders, traps, forearms",20,226,1,15,8,,,kg
+967,13/06/2025,"Shoulders, traps, forearms",20,226,2,35,8,,,kg
+968,13/06/2025,"Shoulders, traps, forearms",20,226,3,35,10,,,kg
+969,13/06/2025,"Shoulders, traps, forearms",20,226,4,35,10,,,kg
+970,13/06/2025,"Shoulders, traps, forearms",20,227,1,30,12,,,kg
+971,13/06/2025,"Shoulders, traps, forearms",20,227,2,30,12,,,kg
+972,13/06/2025,"Shoulders, traps, forearms",20,227,3,30,11,,,kg
+973,13/06/2025,"Shoulders, traps, forearms",21,228,1,10,12,,,kg
+974,13/06/2025,"Shoulders, traps, forearms",21,228,2,10,12,,,kg
+975,13/06/2025,"Shoulders, traps, forearms",21,228,3,10,12,,,kg
+976,13/06/2025,"Shoulders, traps, forearms",22,229,1,41,12,,,kg
+977,13/06/2025,"Shoulders, traps, forearms",22,229,2,36,4,,,kg
+978,13/06/2025,"Shoulders, traps, forearms",22,229,3,32,3,,,kg
+979,13/06/2025,"Shoulders, traps, forearms",22,229,4,27,3,,,kg
+980,13/06/2025,"Shoulders, traps, forearms",22,229,5,23,6,,,kg
+981,13/06/2025,"Shoulders, traps, forearms",22,229,6,18,4,,,kg
+982,13/06/2025,"Shoulders, traps, forearms",22,229,7,14,8,,,kg
+983,13/06/2025,"Shoulders, traps, forearms",22,229,8,9,8,,,kg
+984,13/06/2025,"Shoulders, traps, forearms",23,230,1,25,12,,,kg
+985,13/06/2025,"Shoulders, traps, forearms",23,230,2,25,12,,,kg
+986,13/06/2025,"Shoulders, traps, forearms",23,230,3,25,11,,,kg
+987,13/06/2025,"Shoulders, traps, forearms",24,231,1,54,21,,,kg
+988,13/06/2025,"Shoulders, traps, forearms",24,231,2,50,14,,,kg
+989,13/06/2025,"Shoulders, traps, forearms",24,231,3,45,10,,,kg
+990,13/06/2025,"Shoulders, traps, forearms",24,231,4,41,14,,,kg
+991,13/06/2025,"Shoulders, traps, forearms",24,231,5,36,17,,,kg
+992,16/06/2025,Back and biceps,25,232,1,20,5,,,kg
+993,16/06/2025,Back and biceps,25,232,2,90,5,,,kg
+994,16/06/2025,Back and biceps,25,232,3,90,5,,,kg
+995,16/06/2025,Back and biceps,25,232,4,90,5,,,kg
+996,16/06/2025,Back and biceps,2,233,1,50,8,,,kg
+997,16/06/2025,Back and biceps,2,233,2,50,8,,,kg
+998,16/06/2025,Back and biceps,2,233,3,50,9,,,kg
+999,16/06/2025,Back and biceps,1,234,1,17.5,20,,,kg
+1000,16/06/2025,Back and biceps,1,234,2,17.5,22,,,kg
+1001,16/06/2025,Back and biceps,1,234,3,17.5,16,,,kg
+1002,16/06/2025,Back and biceps,2,235,1,40,12,,,kg
+1003,16/06/2025,Back and biceps,2,235,2,40,10,,,kg
+1004,16/06/2025,Back and biceps,2,235,3,40,9,,,kg
+1005,16/06/2025,Back and biceps,3,236,1,50,10,,,kg
+1006,16/06/2025,Back and biceps,3,236,2,45,9,,,kg
+1007,16/06/2025,Back and biceps,3,236,3,40,7,,,kg
+1008,16/06/2025,Back and biceps,3,236,4,35,10,,,kg
+1009,16/06/2025,Back and biceps,3,236,5,30,16,,,kg
+1010,16/06/2025,Back and biceps,3,236,6,25,25,,,kg
+1011,16/06/2025,Back and biceps,26,237,1,14,10,,,kg
+1012,16/06/2025,Back and biceps,26,237,2,14,12,,,kg
+1013,16/06/2025,Back and biceps,26,237,3,14,8,,,kg
+1014,16/06/2025,Back and biceps,31,238,1,7,10,,,kg
+1015,16/06/2025,Back and biceps,31,238,2,7,10,,,kg
+1016,16/06/2025,Back and biceps,31,238,3,7,8,,,kg
+1017,16/06/2025,Back and biceps,27,239,1,9,5,,,kg
+1018,16/06/2025,Back and biceps,27,239,2,8,3,,,kg
+1019,16/06/2025,Back and biceps,27,239,3,7,3,,,kg
+1020,16/06/2025,Back and biceps,27,239,4,6,5,,,kg
+1021,16/06/2025,Back and biceps,27,239,5,5,8,,,kg
+1022,16/06/2025,Back and biceps,27,239,6,4,10,,,kg
+1023,16/06/2025,Back and biceps,27,239,7,3,13,,,kg
+1024,17/06/2025,Chest & triceps,6,240,1,20,8,,,kg
+1025,17/06/2025,Chest & triceps,6,240,2,40,6,,,kg
+1026,17/06/2025,Chest & triceps,6,240,3,40,6,,,kg
+1027,17/06/2025,Chest & triceps,6,240,4,40,5,,,kg
+1028,17/06/2025,Chest & triceps,28,241,1,35,8,,,kg
+1029,17/06/2025,Chest & triceps,28,241,2,35,8,,,kg
+1030,17/06/2025,Chest & triceps,28,241,3,35,10,,,kg
+1031,17/06/2025,Chest & triceps,10,242,1,45,10,,,kg
+1032,17/06/2025,Chest & triceps,10,242,2,45,10,,,kg
+1033,17/06/2025,Chest & triceps,10,242,3,45,12,,,kg
+1034,17/06/2025,Chest & triceps,29,243,1,25,14,,,kg
+1035,17/06/2025,Chest & triceps,29,243,2,25,14,,,kg
+1036,17/06/2025,Chest & triceps,29,243,3,25,15,,,kg
+1037,17/06/2025,Chest & triceps,8,244,1,55,6,,,kg
+1038,17/06/2025,Chest & triceps,8,244,2,47.5,3,,,kg
+1039,17/06/2025,Chest & triceps,8,244,3,40,2,,,kg
+1040,17/06/2025,Chest & triceps,8,244,4,35,2,,,kg
+1041,17/06/2025,Chest & triceps,8,244,5,30,3,,,kg
+1042,17/06/2025,Chest & triceps,8,244,6,25,4,,,kg
+1043,17/06/2025,Chest & triceps,8,244,7,20,7,,,kg
+1044,17/06/2025,Chest & triceps,8,244,8,20,6,,,kg
+1045,17/06/2025,Chest & triceps,8,244,9,15,7,,,kg
+1046,17/06/2025,Chest & triceps,11,245,1,15,11,,,kg
+1047,17/06/2025,Chest & triceps,11,245,2,15,11,,,kg
+1048,17/06/2025,Chest & triceps,11,245,3,15,12,,,kg
+1049,17/06/2025,Chest & triceps,12,246,1,17.5,8,,,kg
+1050,17/06/2025,Chest & triceps,12,246,2,17.5,8,,,kg
+1051,17/06/2025,Chest & triceps,12,246,3,17.5,11,,,kg
+1052,17/06/2025,Chest & triceps,13,247,1,41,15,,,kg
+1053,17/06/2025,Chest & triceps,13,247,2,36,8,,,kg
+1054,17/06/2025,Chest & triceps,13,247,3,32,10,,,kg
+1055,17/06/2025,Chest & triceps,13,247,4,27,10,,,kg
+1056,17/06/2025,Chest & triceps,13,247,5,23,14,,,kg
+1057,17/06/2025,Chest & triceps,13,247,6,18,20,,,kg
+1058,04/07/2025,Back and biceps,25,248,1,110,3,,,kg
+1059,04/07/2025,Back and biceps,25,248,2,110,3,,,kg
+1060,04/07/2025,Back and biceps,25,248,3,110,5,,,kg
+1061,04/07/2025,Back and biceps,2,249,1,50,9,,,kg
+1062,04/07/2025,Back and biceps,2,249,2,50,10,,,kg
+1063,04/07/2025,Back and biceps,2,249,3,50,9,,,kg
+1064,04/07/2025,Back and biceps,1,250,1,17.5,20,,,kg
+1065,04/07/2025,Back and biceps,1,250,2,17.5,20,,,kg
+1066,04/07/2025,Back and biceps,1,250,3,17.5,24,,,kg
+1067,04/07/2025,Back and biceps,2,251,1,40,10,,,kg
+1068,04/07/2025,Back and biceps,2,251,2,40,11,,,kg
+1069,04/07/2025,Back and biceps,2,251,3,40,12,,,kg
+1070,04/07/2025,Back and biceps,3,252,1,50,12,,,kg
+1071,04/07/2025,Back and biceps,3,252,2,45,7,,,kg
+1072,04/07/2025,Back and biceps,3,252,3,41,7,,,kg
+1073,04/07/2025,Back and biceps,3,252,4,36,11,,,kg
+1074,04/07/2025,Back and biceps,3,252,5,32,12,,,kg
+1075,04/07/2025,Back and biceps,3,252,6,27,16,,,kg
+1076,04/07/2025,Back and biceps,3,252,7,23,13,,,kg
+1077,04/07/2025,Back and biceps,26,253,1,15,10,,,kg
+1078,04/07/2025,Back and biceps,26,253,2,15,10,,,kg
+1079,04/07/2025,Back and biceps,26,253,3,15,12,,,kg
+1080,04/07/2025,Back and biceps,31,254,1,7,10,,,kg
+1081,04/07/2025,Back and biceps,31,254,2,7,10,,,kg
+1082,04/07/2025,Back and biceps,31,254,3,7,10,,,kg
+1083,04/07/2025,Back and biceps,27,255,1,9,5,,,kg
+1084,04/07/2025,Back and biceps,27,255,2,8,2,,,kg
+1085,04/07/2025,Back and biceps,27,255,3,7,3,,,kg
+1086,04/07/2025,Back and biceps,27,255,4,6,6,,,kg
+1087,04/07/2025,Back and biceps,27,255,5,5,8,,,kg
+1088,04/07/2025,Back and biceps,27,255,6,4,10,,,kg
+1089,04/07/2025,Back and biceps,27,255,7,3,12,,,kg
+1090,07/07/2025,Chest & triceps,6,256,1,20,8,,,kg
+1091,07/07/2025,Chest & triceps,6,256,2,40,6,,,kg
+1092,07/07/2025,Chest & triceps,6,256,3,40,6,,,kg
+1093,07/07/2025,Chest & triceps,6,256,4,40,5,,,kg
+1094,07/07/2025,Chest & triceps,28,257,1,35,8,,,kg
+1095,07/07/2025,Chest & triceps,28,257,2,35,8,,,kg
+1096,07/07/2025,Chest & triceps,28,257,3,35,8,,,kg
+1097,07/07/2025,Chest & triceps,10,258,1,45,10,,,kg
+1098,07/07/2025,Chest & triceps,10,258,2,45,12,,,kg
+1099,07/07/2025,Chest & triceps,10,258,3,45,11,,,kg
+1100,07/07/2025,Chest & triceps,29,259,1,25,15,,,kg
+1101,07/07/2025,Chest & triceps,29,259,2,25,13,,,kg
+1102,07/07/2025,Chest & triceps,29,259,3,25,10,,,kg
+1103,07/07/2025,Chest & triceps,8,260,1,52.5,9,,,kg
+1104,07/07/2025,Chest & triceps,8,260,2,45,5,,,kg
+1105,07/07/2025,Chest & triceps,8,260,3,37.5,7,,,kg
+1106,07/07/2025,Chest & triceps,8,260,4,30,10,,,kg
+1107,07/07/2025,Chest & triceps,8,260,5,25,32,,,kg
+1108,07/07/2025,Chest & triceps,11,261,1,15,12,,,kg
+1109,07/07/2025,Chest & triceps,11,261,2,15,11,,,kg
+1110,07/07/2025,Chest & triceps,11,261,3,15,8,,,kg
+1111,07/07/2025,Chest & triceps,12,262,1,17.5,9,,,kg
+1112,07/07/2025,Chest & triceps,12,262,2,17.5,9,,,kg
+1113,07/07/2025,Chest & triceps,12,262,3,17.5,8,,,kg
+1114,07/07/2025,Chest & triceps,13,263,1,41,8,,,kg
+1115,07/07/2025,Chest & triceps,13,263,2,36,5,,,kg
+1116,07/07/2025,Chest & triceps,13,263,3,32,7,,,kg
+1117,07/07/2025,Chest & triceps,13,263,4,27,9,,,kg
+1118,07/07/2025,Chest & triceps,13,263,5,23,10,,,kg
+1119,07/07/2025,Chest & triceps,13,263,6,18,13,,,kg
+1120,07/07/2025,Chest & triceps,13,263,7,14,16,,,kg
+1121,10/07/2025,Legs,14,264,1,0,8,,,kg
+1122,10/07/2025,Legs,14,264,2,50,6,,,kg
+1123,10/07/2025,Legs,14,264,3,50,6,,,kg
+1124,10/07/2025,Legs,14,264,4,50,6,,,kg
+1125,10/07/2025,Legs,15,265,1,50,20,,,kg
+1126,10/07/2025,Legs,15,265,2,50,15,,,kg
+1127,10/07/2025,Legs,15,265,3,50,14,,,kg
+1128,10/07/2025,Legs,16,266,1,40,6,,,kg
+1129,10/07/2025,Legs,16,266,2,35,4,,,kg
+1130,10/07/2025,Legs,16,266,3,30,4,,,kg
+1131,10/07/2025,Legs,16,266,4,25,4,,,kg
+1132,10/07/2025,Legs,16,266,5,20,7,,,kg
+1133,10/07/2025,Legs,16,266,6,15,10,,,kg
+1134,10/07/2025,Legs,16,266,7,10,11,,,kg
+1135,10/07/2025,Legs,16,266,8,5,12,,,kg
+1136,10/07/2025,Legs,17,267,1,40,12,,,kg
+1137,10/07/2025,Legs,17,267,2,40,10,,,kg
+1138,10/07/2025,Legs,17,267,3,40,8,,,kg
+1139,10/07/2025,Legs,18,268,1,52.5,11,,,kg
+1140,10/07/2025,Legs,18,268,2,45,5,,,kg
+1141,10/07/2025,Legs,18,268,3,37.5,2,,,kg
+1142,10/07/2025,Legs,19,269,1,30,12,,,kg
+1143,10/07/2025,Legs,19,269,2,30,12,,,kg
+1144,10/07/2025,Legs,19,269,3,30,10,,,kg
+1145,10/07/2025,Legs,19,270,1,50,17,,,kg
+1146,10/07/2025,Legs,19,270,2,42.5,8,,,kg
+1147,10/07/2025,Legs,19,270,3,35,11,,,kg
+1148,10/07/2025,Legs,19,270,4,27.5,11,,,kg
+1149,10/07/2025,Legs,19,270,5,20,11,,,kg
+1150,10/07/2025,Legs,19,270,6,12.5,11,,,kg
+1151,21/07/2025,Back and biceps,25,271,1,90,5,,,kg
+1152,21/07/2025,Back and biceps,25,271,2,90,5,,,kg
+1153,21/07/2025,Back and biceps,25,271,3,90,5,,,kg
+1154,21/07/2025,Back and biceps,2,272,1,50,10,,,kg
+1155,21/07/2025,Back and biceps,2,272,2,50,10,,,kg
+1156,21/07/2025,Back and biceps,2,272,3,50,10,,,kg
+1157,21/07/2025,Back and biceps,1,273,1,17.5,22,,,kg
+1158,21/07/2025,Back and biceps,1,273,2,17.5,22,,,kg
+1159,21/07/2025,Back and biceps,1,273,3,17.5,22,,,kg
+1160,21/07/2025,Back and biceps,2,274,1,41,8,,,kg
+1161,21/07/2025,Back and biceps,2,274,2,41,6,,,kg
+1162,21/07/2025,Back and biceps,2,274,3,40,7,,,kg
+1163,21/07/2025,Back and biceps,3,275,1,50,14,,,kg
+1164,21/07/2025,Back and biceps,3,275,2,45,5,,,kg
+1165,21/07/2025,Back and biceps,3,275,3,41,6,,,kg
+1166,21/07/2025,Back and biceps,3,275,4,36,11,,,kg
+1167,21/07/2025,Back and biceps,3,275,5,32,15,,,kg
+1168,21/07/2025,Back and biceps,3,275,6,27,31,,,kg
+1169,21/07/2025,Back and biceps,26,276,1,15,12,,,kg
+1170,21/07/2025,Back and biceps,26,276,2,15,10,,,kg
+1171,21/07/2025,Back and biceps,26,276,3,15,11,,,kg
+1172,21/07/2025,Back and biceps,31,277,1,7.5,18,,,kg
+1173,21/07/2025,Back and biceps,31,277,2,7.5,12,,,kg
+1174,21/07/2025,Back and biceps,31,277,3,7.5,10,,,kg
+1175,21/07/2025,Back and biceps,27,278,1,25,7,,,kg
+1176,21/07/2025,Back and biceps,27,278,2,20,9,,,kg
+1177,21/07/2025,Back and biceps,27,278,3,15,9,,,kg
+1178,21/07/2025,Back and biceps,27,278,4,10,17,,,kg
+1179,21/07/2025,Back and biceps,27,278,5,5,20,,,kg
